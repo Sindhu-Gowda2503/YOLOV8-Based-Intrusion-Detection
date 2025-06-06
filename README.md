@@ -1,11 +1,5 @@
 # Real-Time Weapon Detection System
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
-![YOLO](https://img.shields.io/badge/YOLO-v8-orange.svg)
-![Twilio](https://img.shields.io/badge/Twilio-SMS-red.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
 A **real-time weapon detection system** built with Flask, YOLOv8, and OpenCV, designed for surveillance and security applications. This project processes live video feeds to detect weapons (e.g., guns, knives, suspicious objects), logs detections in a database, sends instant alerts via a web interface and SMS, and provides historical analysis of detected threats.
 
 ## Table of Contents
